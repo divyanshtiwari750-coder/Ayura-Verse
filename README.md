@@ -62,7 +62,7 @@ Signing up as **Principal Investigator** — the role that can see and delete
 every account — requires an access code. The default is:
 
 ```
-AIIA-PI-2026
+Divyansh-2026
 ```
 
 Change it before sharing this with anyone by either editing `PI_ACCESS_CODE`
